@@ -57,20 +57,17 @@
 		<dependency>
 			<groupId>org.mybatis.spring.boot</groupId>
 			<artifactId>mybatis-spring-boot-starter</artifactId>
-			<version>${mybatis-spring-boot-starter.version}</version>
 		</dependency>
 		<!-- mysql -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>${mysql-connector-java.version}</version>
 		</dependency>
 
 		<!-- xxl-job-core -->
 		<dependency>
 			<groupId>com.xuxueli</groupId>
 			<artifactId>xxl-job-core</artifactId>
-			<version>${xxl-job-core-version}</version>
 		</dependency>
 
 	</dependencies>
